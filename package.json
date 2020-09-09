@@ -1,0 +1,5 @@
+{
+  "name": "aws_cognito",
+  "private": true,
+  "dependencies": {}
+}
